@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://szpyxlwoni.github.io//github/sitemap.xml 
